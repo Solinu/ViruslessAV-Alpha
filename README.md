@@ -1,7 +1,7 @@
 ## ViruslessAV-Alpha
 [MAGYAR] Winizsol által készített fájlvizsgáló program sablon. Virusless AntiVirus FREE Fontos információk
 §1 Források 
-Ez a program JackkTutorials Simple Anti-Virus szoftvere alapján készült. https://www.youtube.com/user/JackkTutorials (JackkTutorials YouTube) 
+Ez a program JackkTutorials Simple Anti-Virus szoftvere alapján készült. https://www.youtube.com/user/JackkTutorials (JackkTutorials YouTube) A felhasznált ikon az IconArchive oldalról származik. http://www.iconarchive.com/show/plex-icons-by-cornmanthe3rd/Utilities-antivirus-icon.html
 
 §2 Rendszerkövetelmények
 Minimális rendszerkövetelmények
