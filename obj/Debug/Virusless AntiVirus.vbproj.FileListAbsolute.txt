@@ -1,0 +1,18 @@
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\bin\Debug\Virusless AntiVirus.exe.config
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\bin\Debug\Virusless AntiVirus.exe
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\bin\Debug\Virusless AntiVirus.pdb
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\bin\Debug\Virusless AntiVirus.xml
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.vbprojResolveAssemblyReference.cache
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless_AntiVirus.Form1.resources
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless_AntiVirus.Resources.resources
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.vbproj.GenerateResource.Cache
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.exe
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.xml
+c:\users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.pdb
+C:\Users\szabo\Documents\Visual Studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\bin\Debug\Virusless AntiVirus.exe.manifest
+C:\Users\szabo\Documents\Visual Studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\bin\Debug\Virusless AntiVirus.application
+C:\Users\szabo\Documents\Visual Studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.TrustInfo.xml
+C:\Users\szabo\Documents\Visual Studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.exe.manifest
+C:\Users\szabo\Documents\Visual Studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless AntiVirus.application
+C:\Users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless_AntiVirus.Form2.resources
+C:\Users\szabo\documents\visual studio 2017\Projects\Virusless AntiVirus\Virusless AntiVirus\obj\Debug\Virusless_AntiVirus.Activation.resources
