@@ -71,7 +71,7 @@ Partial Class Activation
         Me.lnkGPL_en.Size = New System.Drawing.Size(81, 13)
         Me.lnkGPL_en.TabIndex = 3
         Me.lnkGPL_en.TabStop = True
-        Me.lnkGPL_en.Text = "GPL 3.0 (angol)"
+        Me.lnkGPL_en.Text = "GPL v2 (angol)"
         '
         'lnkGPL_hu
         '
@@ -81,7 +81,7 @@ Partial Class Activation
         Me.lnkGPL_hu.Size = New System.Drawing.Size(196, 13)
         Me.lnkGPL_hu.TabIndex = 4
         Me.lnkGPL_hu.TabStop = True
-        Me.lnkGPL_hu.Text = "GPL 3.0 (nem hivatalos magyar fordítás)"
+        Me.lnkGPL_hu.Text = "GPL v2 (nem hivatalos magyar fordítás)"
         '
         'Activation
         '
