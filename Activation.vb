@@ -47,10 +47,10 @@
     End Sub
 
     Private Sub lnkGPL_en_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles lnkGPL_en.LinkClicked
-        Process.Start("https://www.gnu.org/licenses/gpl-3.0.en.html")
+        Process.Start("https://www.gnu.org/licenses/old-licenses/gpl-2.0.html")
     End Sub
 
     Private Sub lnkGPL_hu_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles lnkGPL_hu.LinkClicked
-        Process.Start("http://gnu.hu/gplv3.html")
+        Process.Start("http://www.drdudas.hu/gpl_v2_magyarul")
     End Sub
 End Class
