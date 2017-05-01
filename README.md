@@ -22,17 +22,10 @@ Ez a program JackkTutorials Simple Anti-Virus szoftvere alapján készült. http
 ## §3 A telepítés során végrehajtott műveletek
 ### A Virusless AntiVirus FREE program telepítése
 > 1.1.	A program feltelepítése
-> 1.2.	A verzióhoz járó adatbázis feltelepítése
 ### Dokumentációk feltelepítése
 > 2.1.	Licensz szerződés feltelepítése
 > 2.2.	Fontos információk feltelepítése
-### Opcionálisan végrehajtott műveletek
-> 3.1.	Fontos információk megmutatása
-> 3.2.	Winizsol weboldalának megmutatása
-### A telepítés vége
-> 4.1.	Ön feltelepítette a Virusless AntiVirus FREE szoftvert.
-> 4.2.	Ön elfogadta a szerződést.
 
 ## §4 Egyéb információk
 Ez az AntiVirus szoftver CSAK FÁJLOK ÁTVIZSGÁLÁSÁRA ALKALMAS! Új vírusnál előfordulhat, hogy még nincs benne az adatbázisban, ezért nem biztos, hogy tudjuk érzékelni. A Virusless AntiVirus FREE egy Winizsol által készített magyar termék.
-Dokumentum legutóbb frissítve: 2017.03.24.
+Dokumentum legutóbb frissítve: 2017.05.01.
